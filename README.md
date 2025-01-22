@@ -1,1 +1,1 @@
-# ML
+This project uses machine learning to predict the premium cost of medical life insurance based on various factors such as age, Smoking habit, and number of childrens. The primary objective is to help insurance companies and customers estimate premiums accurately and efficiently.
